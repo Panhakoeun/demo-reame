@@ -79,4 +79,5 @@ CSS framework [Tailwindcss](https://www.w3schools.com/)
 ## Badge
 
 [![button](https://img.shields.io/badge/Visit-Website-blue)](https://pythontutor.com/render.html#mode=display)
+
 [1[pnc](https://img.shields.io/badge/class_c-2026-red)](https://pythontutor.com/render.html#mode=display)
