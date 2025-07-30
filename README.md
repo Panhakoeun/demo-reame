@@ -75,3 +75,6 @@ CSS framework [Tailwindcss](https://www.w3schools.com/)
 
 ## Image dashboard
 ![Dashboard](photo.jpg)
+
+## Badge
+[i[Button](https://img.shields.io/badge/Visit-Website-blue)](https://www.w3schools.com/)
