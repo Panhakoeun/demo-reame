@@ -72,3 +72,6 @@ nav{
 ## Link
 
 CSS framework [Tailwindcss](https://www.w3schools.com/)
+
+## Image dashboard
+![Dashboard](photo.jpg)
