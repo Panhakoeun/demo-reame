@@ -40,4 +40,10 @@ Project description here
 
 > pip install
 
+## Code online
+
+`print("Hello my classmate")`
+
+`npm install express`
+
 
