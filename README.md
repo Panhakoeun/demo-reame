@@ -68,3 +68,7 @@ nav{
 - [x] about page
 - [] contact page
 - [] service page
+
+## Link
+
+CSS framework [Tailwindcss](https://www.w3schools.com/)
